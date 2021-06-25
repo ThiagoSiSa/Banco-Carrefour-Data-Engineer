@@ -16,7 +16,7 @@ Possuem estrutura rígida e previamente planejada, cada campo tem um formato ún
 **Exemplos:** Banco de dados de clientes de uma empresa de e-commerce.
 
 2. Não estruturados:
-Esse tipo de dado não tem uma estrutura previamente planejada, costumam ser flexíveis e dinâmicos o que aumenta a complexidade em suas consultas. São hoje 80% dos dados disponíveis hoje.
+Esse tipo de dado não tem uma estrutura previamente planejada, costumam ser flexíveis e dinâmicos o que aumenta a complexidade em suas consultas. São 80% dos dados disponíveis hoje.
 
 **Exemplos:** Comentários de usuários sobre um produto ou serviço no Twiter.
 
