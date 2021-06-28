@@ -27,7 +27,7 @@ Esse trabalho garante maior precisão e confiança na tomada de decisão o que c
 Em resumo um engenheiro de dados tem a missão de transformar dados em informação.
 
 **Dados + Processamento =  Informação**
-<<<<<<< HEAD
+
 
 ### Responsabilidades:
 
@@ -89,7 +89,7 @@ Segundo Gartner é o processo de transformar dados em informações e informaç�
 
 ### Arquitetura básica:
 
-![image-20210628145221379](C:\Users\Thiago\Documents\GitHub\Banco-Carrefour-Data-Engineer\Introdução a Engenharia de Dados\image-20210628145221379.png)
+![image-20210628145221379](image-20210628145221379.png)
 
 #### Variações:
 
@@ -99,7 +99,7 @@ Segundo Gartner é o processo de transformar dados em informações e informaç�
 
   
 
-  ![image-20210628145916396](C:\Users\Thiago\Documents\GitHub\Banco-Carrefour-Data-Engineer\Introdução a Engenharia de Dados\image-20210628145916396.png)
+  ![image-20210628145916396](image-20210628145916396.png)
 
   
 
@@ -111,7 +111,7 @@ Segundo Gartner é o processo de transformar dados em informações e informaç�
 
   
 
-  ![image-20210628150540238](C:\Users\Thiago\Documents\GitHub\Banco-Carrefour-Data-Engineer\Introdução a Engenharia de Dados\image-20210628150540238.png)
+  ![image-20210628150540238](image-20210628150540238.png)
 
   As movimentações podem ser realizadas utilizando os seguintes métodos:
 
@@ -131,7 +131,7 @@ Segundo Gartner é o processo de transformar dados em informações e informaç�
 
   
 
-  ![image-20210628154837278](C:\Users\Thiago\Documents\GitHub\Banco-Carrefour-Data-Engineer\Introdução a Engenharia de Dados\image-20210628154837278.png)
+  ![image-20210628154837278](image-20210628154837278.png)
 
   
 
